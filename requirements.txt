@@ -1,0 +1,7 @@
+streamlit
+sqlalchemy
+pandas
+altair
+fuzzywuzzy
+python-Levenshtein
+passlib[bcrypt]

@@ -1,0 +1,13 @@
+category,factor,unit,scope
+electricity_kwh,0.47,kWh,Scope 2
+diesel_litre,2.68,litre,Scope 1
+petrol_litre,2.31,litre,Scope 1
+lpg_litre,1.51,litre,Scope 1
+natural_gas_m3,1.9,m3,Scope 1
+water_litres,0.0003,litre,Scope 3
+waste_kg,0.72,kg,Scope 3
+petrol_car_km,0.192,km,Scope 1
+diesel_car_km,0.171,km,Scope 1
+ev_car_km,0.075,km,Scope 2
+bus_km,0.089,km,Scope 3
+motorcycle_km,0.103,km,Scope 3
